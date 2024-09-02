@@ -1,2 +1,2 @@
-aws_access_key = "AKIATU"
-aws_secret_key = "GypDX03A+82uvMmJG"
+aws_access_key = ""
+aws_secret_key = ""
